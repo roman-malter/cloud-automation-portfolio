@@ -1,4 +1,3 @@
-# cloud-automation-portfolio
 # Cloud Automation & Infrastructure Portfolio
 
 Welcome to my technical portfolio. I am an IT professional specializing in Cloud Administration, Security, and Automated Infrastructure Management. 
