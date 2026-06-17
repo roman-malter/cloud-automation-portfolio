@@ -9,7 +9,7 @@ These labs validate my practical understanding of high-availability gateway rout
 ## 📁 The 6-Project Topology Portfolio
 
 ### 1. Lab 3.1.1.5: Examining a Redundant Design
-![Cisco Redundancy Topology](./cisco_topology.png)
+![Cisco Redundancy Topology](./cisco_topology1.png)
 * **Core Concepts:** First-Hop Redundancy baselines, Spanning Tree Protocol (STP) convergence, and backup default gateway tracking.
 * **The Cloud Pivot:** Mirrors high-availability designs used to orchestrate load-balanced, multi-zone availability structures inside Azure.
 
@@ -24,7 +24,7 @@ These labs validate my practical understanding of high-availability gateway rout
 * **The Cloud Pivot:** Translates directly to network bandwidth pooling concepts like Azure Virtual Network Peering and high-speed ExpressRoute gateway links.
 
 ### 4. Lab 4.3.4.4: Troubleshoot HSRP (Hot Standby Router Protocol)
-![Cisco HSRP Troubleshooting](./cisco_topology.png)
+![Cisco HSRP Troubleshooting](./cisco_topology2.png)
 * **Core Concepts:** Active/Standby router priority resolution, tracking timers configuration, and diagnosing virtual MAC address assignment failures.
 * **The Cloud Pivot:** Directly mimics cloud incident response workflows, ensuring automated infrastructure failovers operate seamlessly without traffic degradation.
 
