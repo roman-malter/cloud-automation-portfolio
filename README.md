@@ -15,9 +15,9 @@ My technical framework bridges physical network architecture, corporate security
 ---
 
 ## 🎓 Credentials & Professional Progress
-* **Google IT Support Specialist Professional Certificate** – Earned
-* **Google Cybersecurity Professional Certificate** – Earned
-* **Microsoft Certified: Azure Fundamentals (AZ-900)** – *In Progress*
+* **Google IT Support Specialist Professional Certificate** – Certified
+* **Google Cybersecurity Professional Certificate** – Certified
+* **Microsoft Certified: Azure Fundamentals (AZ-900)** – *Certified[2026]*
 * **Microsoft Certified: Azure Administrator Associate (AZ-104)** – *In Progress*
 * **Microsoft Certified: Azure Developer Associate (AZ-204)** – *In Progress*
 
